@@ -1,0 +1,4 @@
+[
+	{"from_unit": "meter", "to_unit": "foot", "factor": 3.28084},
+	{"from_unit": "mile", "to_unit": "kilometer", "factor": 1.60934}
+]
